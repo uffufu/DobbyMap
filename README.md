@@ -4,7 +4,7 @@ DOBBY DO YOUR SPECTRAL WORK!
 
 Automated spectral data processing tool that supports single or batch FITS cubes, generates moment map FITS files, and outputs analysis results to Excel.
 
-This project extracts spectral data from the centre of a data cube and automatically detects potential emission signal ranges based on the first derivative of the spectral intensity. The identified signal channels are then used to generate moment maps of order 0 to 2.
+This project extracts spectral data from the central pixels of a data cube and automatically detects potential emission signal ranges based on the first derivative of the spectral intensity. The identified signal channels are then used to generate moment maps of order 0 to 2.
 
 ## Features 
 - Support single FITS cube or batch processing of all FITS cubes in a folder
